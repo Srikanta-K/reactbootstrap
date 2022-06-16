@@ -6,7 +6,7 @@ const Menu = () => {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="white">
                 <Container>
-                    <Navbar.Brand style={{ width: "100%", marginTop: "2%", marginLeft: "20%" }}><b>Welcome To User Registration page</b></Navbar.Brand>
+                    <Navbar.Brand style={{ width: "100%", marginTop: "2%", marginLeft: "20%" }}><b> To User Registration page</b></Navbar.Brand>
 
                 </Container>
 
