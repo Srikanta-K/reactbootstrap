@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button, Form } from 'react-bootstrap';
-import { useState, useEffect, reset } from 'react';
+import { useState, useEffect } from 'react';
 
 const Leftside = () => {
 
